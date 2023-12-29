@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151327371026",
+    "project_id": "alhinai-financetrackerapp",
+    "storage_bucket": "alhinai-financetrackerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151327371026:android:1f2b88081be4c09d0bcdcb",
+        "android_client_info": {
+          "package_name": "com.example.alhinai_financetrackerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvO7IWlkM94sfakwX9rEBnQ4JxwGhqqNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
